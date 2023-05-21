@@ -1,0 +1,12 @@
+## Author: 
+ - Cesar Gutierrez
+ - Cesargutierrez.email@gmail.com
+ 
+## Purpose: 
+The purpose of this app is to show the rankings of the top 1000 IMDB rated movies. So if someone wants to watch a movie they can get recommendations. I included the IMDB rating and metascore for different reasons. The IMDB rating is based off of users and average people, while the metascore is based on critics. I wanted the user to have variety and see how the movies compared for an average audience versus critics. 
+
+## Data: 
+The data used was from Github. It lists the top 1000 movies along with their ranking from 1 to 1000, their IMDB rating, the amount of votes they received, their metascore, a brief description of the movie's plot, the genre, the director, the main cast of actors, the year it was released, the run time, and the amount of revenue earned.
+
+## References:  
+- Movie data set used. From Github. https://github.com/peetck/IMDB-Top1000-Movies/blob/master/IMDB-Movie-Data.csv
